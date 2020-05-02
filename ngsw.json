@@ -1,0 +1,94 @@
+{
+  "configVersion": 1,
+  "timestamp": 1588378696041,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main-es2015.4d95845434c75334e818.js",
+        "/main-es5.4d95845434c75334e818.js",
+        "/manifest.webmanifest",
+        "/polyfills-es2015.690002c25ea8557bb4b0.js",
+        "/polyfills-es5.9e286f6d9247438cbb02.js",
+        "/runtime-es2015.1eba213af0b233498d9d.js",
+        "/runtime-es5.1eba213af0b233498d9d.js",
+        "/scripts.7ac9fd63bd0a07105432.js",
+        "/styles.551106511c3a580d4d0f.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/MaterialIcons-Regular.4674f8ded773cb03e824.eot",
+        "/MaterialIcons-Regular.5e7382c63da0098d634a.ttf",
+        "/MaterialIcons-Regular.83bebaf37c09c7e1c3ee.woff",
+        "/MaterialIcons-Regular.cff684e59ffb052d72cb.woff2",
+        "/assets/downloads/reetrax_Alpha_build_12.345.631.exe",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/images/parallax.jpg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/MaterialIcons-Regular.4674f8ded773cb03e824.eot": "26fb8cecb5512223277b4d290a24492a0f09ede1",
+    "/MaterialIcons-Regular.5e7382c63da0098d634a.ttf": "fc05de31234e0090f7ddc28ce1b23af4026cb1da",
+    "/MaterialIcons-Regular.83bebaf37c09c7e1c3ee.woff": "c6c953c2ccb2ca9abb21db8dbf473b5a435f0082",
+    "/MaterialIcons-Regular.cff684e59ffb052d72cb.woff2": "09963592e8c953cc7e14e3fb0a5b05d5042e8435",
+    "/assets/downloads/reetrax_Alpha_build_12.345.631.exe": "a6657d4daae1c166fbd7eccc47a2236c2c5417f7",
+    "/assets/icons/icon-128x128.png": "10bf6efab7da6ee3da78d9eb383ac43b63566574",
+    "/assets/icons/icon-144x144.png": "4da3cba0aaf130de4893a7bf448a28a23fe6931f",
+    "/assets/icons/icon-152x152.png": "62f7a545d256894d77e3c6ec5448fecec002c5c3",
+    "/assets/icons/icon-192x192.png": "409cc14cc877d25649045d8d88f2bbaf6e51b120",
+    "/assets/icons/icon-384x384.png": "3491344f670df1e3cc5d9c64ccd3b4ce99d98b86",
+    "/assets/icons/icon-512x512.png": "c3ffef7b5bf6ac81972f33094177a8fb9ac7f68c",
+    "/assets/icons/icon-72x72.png": "1eb2e0babee16e38767a4c671231c88f7cc372a1",
+    "/assets/icons/icon-96x96.png": "06aa36e5582a7fa3f4d2e3dfd2d262716d41b36c",
+    "/assets/images/parallax.jpg": "b7516d2b3cfa6e47baed1375bc5986f43de39bcd",
+    "/favicon.ico": "e88a17551aca21dc2e52e2dd215c76f0e4f27231",
+    "/index.html": "ba7d4ecba544c69e043745197400cbd636182d83",
+    "/main-es2015.4d95845434c75334e818.js": "5c3f617639a9f31688102675b16d161534559c07",
+    "/main-es5.4d95845434c75334e818.js": "beb2642d0c9327913276f12137d7ee03b54755aa",
+    "/manifest.webmanifest": "5aba08c1f8b006d524be0598d4ce89251bbbc4ff",
+    "/polyfills-es2015.690002c25ea8557bb4b0.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
+    "/polyfills-es5.9e286f6d9247438cbb02.js": "89222a28dbabb780fc372d33834080e0cd3083d9",
+    "/runtime-es2015.1eba213af0b233498d9d.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/runtime-es5.1eba213af0b233498d9d.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/scripts.7ac9fd63bd0a07105432.js": "7ac9e49850d8a26cdcfa19b9153faaacf2b64cbf",
+    "/styles.551106511c3a580d4d0f.css": "17e2873ce6215ddf131c6c6e20b86d13e0dd5334"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
